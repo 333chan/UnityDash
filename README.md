@@ -1,0 +1,2 @@
+# RunGame
+scriptのみになります。
